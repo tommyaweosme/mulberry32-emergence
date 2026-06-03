@@ -33,6 +33,10 @@ I call it "The plant". It is a non-exponential infinite growth like 2|9, but it 
 This builds a checker-staircase.
 ### 2|32
 This is an oblique duplicator. This is also where I stopped searching on 2 states.
+### 2|108
+This is an infinite growth following a spaceship.
+### 2|641
+This is a tower constructor moving downward. Found on the hunt for an oscillator.
 ### 3|9
 This is an almost exact copy of 2|9, and it shares a seed. Neat coincidence!
 ### 3|11
@@ -43,3 +47,13 @@ This is a very interesting "gun" shooting pink cells.
 This abuses a polka-dot pattern to create a faux 3D, as seen in Q*bert. This is also where I stopped searching on 3 staets.
 ### 5|9
 A knightwise spaceship. This discovery was a complete but pleasant accident.
+### 5|20
+This is a specific pattern that runs upwards while staying grounded.
+### 5|24
+This evolves into a still life into being that way from the start.
+### 5|38
+This is a one-cell knightwise spaceship.
+### 5|41
+This is an irregular spaceship, going in a loop before going left.
+### 5|42
+This gets laggy, but it is a rainbow generator.
